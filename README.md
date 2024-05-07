@@ -1,4 +1,4 @@
-# Guitar LA
+# Guitar LA (With TypeScript) 
 
 **Live Demo**: [Guitar LA Live](https://guitar-la-owenvassarotto.netlify.app/)
 
@@ -23,11 +23,11 @@ Guitar LA is a React application built with Vite, enabling users to manage a sho
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/owenvassarotto/guitar-la.git
+   git clone https://github.com/owenvassarotto/guitarla-ts.git
    ```
 2. Install dependencies:
    ```bash
-   cd guitar-la
+   cd guitarla-ts
    npm install
    ```
 3. Start the development server:
@@ -37,8 +37,7 @@ Guitar LA is a React application built with Vite, enabling users to manage a sho
 
 ## Built With
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,css,vite)](https://skillicons.dev)
 
 ## Contributing
 
