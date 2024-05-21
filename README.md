@@ -13,6 +13,16 @@ Guitar LA is a React application built with Vite, enabling users to manage a sho
 - **Remove Items**: Remove guitars from the cart.
 - **View Total**: Automatically updated total price.
 
+## State Management with `useReducer`
+
+The project leverages the `useReducer` hook for managing the state of the shopping cart. This approach provides a more scalable and maintainable solution for state management compared to `useState`, especially as the application's state logic becomes more complex.
+
+### Benefits of `useReducer` in this Project
+
+- **Predictable State Transitions**: State transitions are managed through a reducer function, making the logic predictable and easier to debug.
+- **Better Organization**: Centralizes state management, reducing the need for multiple `useState` hooks and simplifying component logic.
+- **Enhanced Scalability**: Simplifies adding new actions and state changes as the project grows.
+
 ## Quick Start
 
 ### Prerequisites
